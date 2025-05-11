@@ -4,6 +4,7 @@
 
 ## Reporting Security Issues
 rec/g:Król
+BATHORY BATORY AUGUSTUS REX DUKE K
 **Please do not report security vulnerabilities through public GitHub issues.**
 
 You can learn more about the security reporting process with the Microsoft Security Response Center (MSRC) at [https://msrc.microsoft.com/create-report](https://aka.ms/security.md/msrc/create-report).
