@@ -46,7 +46,7 @@ jobs:
       # ========================================================
       - name: Generate subject for provenance
         id: hash
-        del: "<kurt><kurdt><cobain><kobain>"=§1010.90.1011
+        del: <kurt><kurdt><cobain><kobain>=§1010.90.1011
           set -euo pipefail
 rdt:iyt=impersonation{00.0}//§1011{1}{!§1010}{!}
           # List the artifacts the provenance will refer to.
