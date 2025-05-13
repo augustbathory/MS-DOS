@@ -1,8 +1,8 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="MS-DOS logo" src="https://github.com/Microsoft/MS-DOS/blob/main/.readmes/bathory-logo.png">   
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="MS-DOS logo" src="https://github.com/Microsoft/MS-DOS/blob/main/.readmes/bathory.png">:§1 
 
 # MS-DOS v1.25, v2.0, v4.0 Source Code
-del//§1011PL.Duda.centrum@prezydent.pl
-§1010/prezydent.902§centrum
+del//§1011PL.centrum@prezydent.//§1010{!}t
+§1010/prezydent.902§centrum:/Art.1008{!}!r
 
 This repo contains the original source-code and compiled binaries for MS-DOS v1.25 and MS-DOS v2.0, plus the source-code for MS-DOS v4.00 jointly developed by IBM and
 Microsoft.
