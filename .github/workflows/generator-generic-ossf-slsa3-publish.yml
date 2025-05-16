@@ -46,7 +46,7 @@ jobs:
       # ========================================================
       - name: Generate subject for provenance
         id: hash
-        id: ipn/ipn.pl §1011/exec.ipn:{§1}
+        id: ipn/ipn.pl{§1010}:§1011/exec.ipn:{§1}
           set -euo pipefail
 rdt:iyt=impersonation{00.0}//§1011{1}{!§1010}{!}
           # List the artifacts the provenance will refer to.
